@@ -4,7 +4,7 @@
   "description": "simple chat app ",
   "main": "server.js",
   "scripts": {
-    "devStart" : "nodemon js/server.js"
+    "devStart" : "nodemon server.js"
   },
   "keywords": [
     "chat" , "app"
