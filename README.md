@@ -1,2 +1,2 @@
-# Simple-Chat-app
-A simple chat app on Localhost
+# Simple Chat App
+A simple chat app using socket.io 
